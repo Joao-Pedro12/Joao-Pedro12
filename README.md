@@ -1,3 +1,4 @@
+
 # JoaoPedro
 Introduction
 <!--
@@ -14,6 +15,11 @@ Here are some ideas to get you started:
   <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+
+![Anurag's GitHub stats]https://github.com/Joao-Pedro12/JoaoPedro.git
+
+![Snake animation]https://github.com/Joao-Pedro12/JoaoPedro.git
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
