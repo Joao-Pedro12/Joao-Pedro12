@@ -1,7 +1,7 @@
 # Olá, meu nome é João Pedro
 Sou estudande de Sistemas para Intertet, focado em Back-end.
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopedro&show_icons=true)
 
 <div>
   <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
