@@ -1,4 +1,4 @@
-# Olá, meu nome é João Pedro
+# Olá, meu nome é João Pedro👋
 Sou estudande de Sistemas para Intertet, focado em Back-end.
 <picture>
 <source 
