@@ -1,6 +1,6 @@
 # Olá, meu nome é João Pedro
-Introduction
-
+Sou estudande de Sistemas para Intertet, focado em Back-end.
+    
 <div>
   <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,4 +13,4 @@ Introduction
 <img align="center" alt="vsc" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 <br><br>
-<strong> Sempre aberto a dialogos e opiniões.</strong>
+<strong> Ao seu dispor!
