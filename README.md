@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=darksize=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+João+Pedro!;I'm+23+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-Sou estudande de Sistemas para Intertet, focado em Back-end.
+<h2>Sou estudande de Sistemas para Intertet na UNIESP.</h2>
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro12&layout=compact&langs_count=16&theme=dark"/>
