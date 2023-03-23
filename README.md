@@ -1,15 +1,20 @@
-# Olá, meu nome é João Pedro👋
-Sou estudande de Sistemas para Intertet, focado em Back-end.
+<img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400x&height=120&section=footer"/>
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=darksize=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+João+Pedro!;I'm+23+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
+
+Sou estudande de Sistemas para Intertet, focado em Back-end.
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro12&layout=compact&langs_count=16&theme=dark"/>
 <div style="display: inline_block"><br>
-<div>
-  <img align="center" alt="Beto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Beto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Beto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Beto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style= "display: inline_block"><br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img align="center" alt="Html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 IDE's que utilizo no momento:
@@ -21,4 +26,6 @@ IDE's que utilizo no momento:
 <br><br>
 
 
-<strong> Ao seu dispor!
+<strong> Ao seu dispor!<br>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+   <img width=110% src="https://capsule-render.vercel.app/api?type=waving&color=#FF2400x&height=120&section=footer"/>
