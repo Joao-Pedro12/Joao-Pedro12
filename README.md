@@ -34,7 +34,7 @@
     <a title="Linkedin" href="https://www.linkedin.com/in/joao-pedro-silva-souza-nunes/">
     <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
     </a>
-  <a title="Portfolio" href="https://Joao-Pedro12.github.io/Shae%20Smith/index.html">
+  <a title="Portfolio" href="https://Joao-Pedro12.github.io/Joao%Pedro12/index.html">
     <img src="https://img.icons8.com/nolan/48/github.png"/>
     </a> 
   <a title="Instagram" href="https://www.instagram.com/jaosnunes/">
