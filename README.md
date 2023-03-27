@@ -10,7 +10,9 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
- 
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Joao-Pedro12&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
  
  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
