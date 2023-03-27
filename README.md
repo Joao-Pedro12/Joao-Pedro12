@@ -28,7 +28,18 @@
 <img align="center" alt="vsc" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 <br><br>
-
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
+								      
+<p align="center">
+    <a title="Linkedin" href="https://www.linkedin.com/in/joao-pedro-silva-souza-nunes/">
+    <img src="https://img.icons8.com/nolan/48/linkedin.png"/>
+    </a>
+  <a title="Portfolio" href="https://Joao-Pedro12.github.io/Shae%20Smith/index.html">
+    <img src="https://img.icons8.com/nolan/48/github.png"/>
+    </a> 
+  <a title="Instagram" href="https://www.instagram.com/jaosnunes/">
+    <img src="https://img.icons8.com/nolan/48/instagram-new.png"/>
+</p>
    
    <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
