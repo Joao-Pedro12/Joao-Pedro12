@@ -6,8 +6,9 @@
 
   <h2>Sou estudande de Sistemas para Intertet na UNIESP.</h2>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro12&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <a href="https://github.com/Joao-Pedro12">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro12&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro12&layout=compact&langs_count=16&theme=material-palenight"/>
 </div>
 
  <p align="center">
