@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=darksize=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+João+Pedro!;I'm+23+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=darksize=35&center=true&vCenter=true&width=1000&lines=What's+up?+My+name+is+João+Pedro!;I'm+25+years+old+and+I'm+from+João+Pessoa+-+PB;Be+Welcome+to+my+Github!)](https://git.io/typing-svg)
 
   <h2>Sou estudande de Sistemas para Intertet na UNIESP.</h2>
 <div align="center">  
